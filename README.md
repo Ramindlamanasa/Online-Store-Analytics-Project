@@ -24,3 +24,7 @@ Analyzed retail sales data using SQL and Power BI to identify customer behavior,
 - SQL Queries (.sql)
 - Power BI Dashboard (.pbix)
 - Presentation (.pptx)
+
+## Dashboard Preview
+   <img width="1441" height="815" alt="image" src="https://github.com/user-attachments/assets/8051794a-a6bb-492b-8fff-4a650d02737d" />
+
